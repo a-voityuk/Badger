@@ -1,0 +1,13 @@
+.DS_Store
+Resources
+build.log
+build
+npm-debug.log
+tmp
+.map
+.idea
+.project
+.settings
+.metadata
+Thumbs.db
+.apt_generated
